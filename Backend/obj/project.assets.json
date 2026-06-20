@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heine\\OneDrive\\Desktop\\Koding\\c#\\ProductsAPI\\ProductsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\heine\\OneDrive\\Desktop\\Koding\\React\\ProdWorker(CS)\\Backend\\ProductsAPI.csproj",
       "projectName": "ProductsAPI",
-      "projectPath": "C:\\Users\\heine\\OneDrive\\Desktop\\Koding\\c#\\ProductsAPI\\ProductsAPI.csproj",
+      "projectPath": "C:\\Users\\heine\\OneDrive\\Desktop\\Koding\\React\\ProdWorker(CS)\\Backend\\ProductsAPI.csproj",
       "packagesPath": "C:\\Users\\heine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heine\\OneDrive\\Desktop\\Koding\\c#\\ProductsAPI\\obj\\",
+      "outputPath": "C:\\Users\\heine\\OneDrive\\Desktop\\Koding\\React\\ProdWorker(CS)\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
