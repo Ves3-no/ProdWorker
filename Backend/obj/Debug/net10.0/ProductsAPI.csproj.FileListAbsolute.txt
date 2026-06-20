@@ -1,0 +1,6 @@
+C:\Users\heine\OneDrive\Desktop\Koding\c#\ProductsAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\heine\OneDrive\Desktop\Koding\c#\ProductsAPI\obj\Debug\net10.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heine\OneDrive\Desktop\Koding\c#\ProductsAPI\obj\Debug\net10.0\ProductsAPI.AssemblyInfoInputs.cache
+C:\Users\heine\OneDrive\Desktop\Koding\c#\ProductsAPI\obj\Debug\net10.0\ProductsAPI.AssemblyInfo.cs
+C:\Users\heine\OneDrive\Desktop\Koding\c#\ProductsAPI\obj\Debug\net10.0\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\Users\heine\OneDrive\Desktop\Koding\c#\ProductsAPI\obj\Debug\net10.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
