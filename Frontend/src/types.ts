@@ -1,6 +1,9 @@
 export type  Product = {
-    Id: Number;
+    Id: number;
     Name: String;
     Category: String;
-    Price: Number;
+    Price: number;
 }
+export type ProductsMap = {
+  [id: string]: Product;
+};
