@@ -4,7 +4,7 @@ export default async function Post({Prod}: {Prod: Product}){
     const API_URL = import.meta.env.VITE_API_URL
     
     const response = await fetch(API_URL, {
-        method: "GET",
+        method: "POST",
         headers: {
             "My-Custom-Header": API_KEY,
             "Content-Type": "application/json"
